@@ -90,7 +90,7 @@ Un ***archivo sin rastrear*** existe en el *directorio de trabajo*, pero nunca h
 
 ### Flujo de trabajo básico en Git
 
-Se **preparan** (~`git add`) los **archivos no rastreados** y aquellos **modificados** del *directorio de trabajo*, y después se **confirman los cambios** (~`git commit`) cada vez que el proyecto alcance un estado que se quiera conservar. Al realizar un *commit*, se toman los archivos del *área de preparación* y se almacenan en una *copia instantánea* de manera permanente en el *directorio de Git*.
+Se **preparan** (`git add`) los **archivos no rastreados** y aquellos **modificados** del *directorio de trabajo*, y después se **confirman los cambios** (`git commit`) cada vez que el proyecto alcance un estado que se quiera conservar. Al realizar un *commit*, se toman los archivos del *área de preparación* y se almacenan en una *copia instantánea* de manera permanente en el *directorio de Git*.
 
 
 
